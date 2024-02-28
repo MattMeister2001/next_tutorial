@@ -1,3 +1,3 @@
-export default function(){
+export default function CustomersPage(){
     return <p>Customers Page</p>
 }
